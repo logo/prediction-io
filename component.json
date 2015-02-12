@@ -1,0 +1,19 @@
+{
+  "logo": "http://Prediction.io|Prediction.io",
+  "name": "prediction-io",
+  "repo": "logo/prediction-io",
+  "description": "The http://Prediction.io|Prediction.io logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}

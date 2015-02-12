@@ -1,0 +1,21 @@
+
+/**
+ * http://Prediction.io|Prediction.io logo.
+ */
+
+.logo[data-logo="http://Prediction.io|Prediction.io"] {
+  width: 0;
+}
+
+.logo[data-logo="http://Prediction.io|Prediction.io"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="http://Prediction.io|Prediction.io"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="http://Prediction.io|Prediction.io"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
